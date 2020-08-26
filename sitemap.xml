@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://205213.xyz/categories/index.html</loc>
+    
+    <lastmod>2020-08-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://205213.xyz/2020/08/26/sql%E8%AF%AD%E5%8F%A5%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
+    
+    <lastmod>2020-08-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://205213.xyz/404.html</loc>
+    
+    <lastmod>2020-08-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://205213.xyz/about/index.html</loc>
+    
+    <lastmod>2020-08-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://205213.xyz/tags/index.html</loc>
+    
+    <lastmod>2020-08-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://205213.xyz/2020/08/26/hello-world/</loc>
+    
+    <lastmod>2020-08-26</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://205213.xyz/</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://205213.xyz/tags/sql/</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://205213.xyz/tags/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://205213.xyz/categories/%E7%BD%91%E5%AE%89%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
