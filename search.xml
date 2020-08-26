@@ -22,10 +22,12 @@
   </entry>
   <entry>
     <title>sql语句的基本用法（一）</title>
-    <url>/2020/08/26/sql1/</url>
+    <url>/2020/08/26/sql%E8%AF%AD%E5%8F%A5%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95%EF%BC%88%E4%B8%80%EF%BC%89/</url>
     <content><![CDATA[<h1 id="sql注入学习总结"><a href="#sql注入学习总结" class="headerlink" title="sql注入学习总结"></a>sql注入学习总结</h1><h2 id="sql语句的基本用法（一）"><a href="#sql语句的基本用法（一）" class="headerlink" title="sql语句的基本用法（一）"></a>sql语句的基本用法（一）</h2><blockquote>
 <p>总结sql语句的基本操作</p>
 </blockquote>
+<a id="more"></a>
+
 <h3 id="1-sql基本语句"><a href="#1-sql基本语句" class="headerlink" title="1.sql基本语句"></a>1.sql基本语句</h3><h3 id="操作语句"><a href="#操作语句" class="headerlink" title="操作语句"></a>操作语句</h3><ul>
 <li><p>select <strong>1</strong> from <strong>2</strong></p>
 <ul>
