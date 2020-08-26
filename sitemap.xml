@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://205213.xyz/2020/08/26/hello-world/</loc>
+    
+    <lastmod>2020-08-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://205213.xyz/tags/index.html</loc>
+    
+    <lastmod>2020-08-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://205213.xyz/404.html</loc>
+    
+    <lastmod>2020-08-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://205213.xyz/categories/index.html</loc>
     
     <lastmod>2020-08-26</lastmod>
@@ -16,28 +37,7 @@
   </url>
   
   <url>
-    <loc>http://205213.xyz/404.html</loc>
-    
-    <lastmod>2020-08-26</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://205213.xyz/about/index.html</loc>
-    
-    <lastmod>2020-08-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://205213.xyz/tags/index.html</loc>
-    
-    <lastmod>2020-08-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://205213.xyz/2020/08/26/hello-world/</loc>
     
     <lastmod>2020-08-26</lastmod>
     
