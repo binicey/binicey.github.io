@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://205213.xyz/2020/08/26/hello-world/</loc>
-    <lastmod>2020-08-26</lastmod>
+    <loc>http://205213.xyz/2020/08/31/diary-2020-8-31/</loc>
+    <lastmod>2020-09-01</lastmod>
   </url>
   <url>
-    <loc>http://205213.xyz/2020/08/26/sql%E8%AF%AD%E5%8F%A5%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
-    <lastmod>2020-08-26</lastmod>
+    <loc>http://205213.xyz/2020/08/26/basic-usage-of-sql-statement-1/</loc>
+    <lastmod>2020-09-01</lastmod>
+  </url>
+  <url>
+    <loc>http://205213.xyz/2020/08/26/hello-world/</loc>
+    <lastmod>2020-08-31</lastmod>
   </url>
 </urlset> 
