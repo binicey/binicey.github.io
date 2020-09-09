@@ -108,6 +108,13 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://205213.xyz/tags/matlab/</loc>
+    <lastmod>2020-09-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -126,6 +133,13 @@
   
   <url>
     <loc>http://205213.xyz/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2020-09-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://205213.xyz/categories/%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2020-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
