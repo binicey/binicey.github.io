@@ -1599,7 +1599,6 @@ imag（）求虚部</li>
 </ul>
 </li>
 </ul>
-<p>aaa</p>
 <h2 id="3matlab的基本语法"><a class="markdownIt-Anchor" href="#3matlab的基本语法"></a> 3.matlab的基本语法</h2>
 <h3 id="1变量与赋值语句"><a class="markdownIt-Anchor" href="#1变量与赋值语句"></a> 1.变量与赋值语句</h3>
 <ul>
@@ -1887,7 +1886,7 @@ imag（）求虚部</li>
 </tr>
 <tr>
 <td><strong>单序号寻访格式</strong></td>
-<td style="text-align:left">A(😃</td>
+<td style="text-align:left">A( : )</td>
 <td>全元素寻访，A各列按照从左到右次序，一维长列数组</td>
 </tr>
 <tr>
@@ -1944,14 +1943,14 @@ imag（）求虚部</li>
 <ul>
 <li>
 <p>运算规则：</p>
-<p><img src="/.xyz//images%5Cmatlabprograming%5Cimage-20200907210425853.png" alt="image-20200907210425853"></p>
+<p><img src="/images/matlabprograming/image-20200907210425853.png" alt="image-20200907210425853"></p>
 <ul>
 <li><strong>运算需要符合矩阵运算的规则；</strong></li>
 </ul>
 </li>
 <li>
 <p>左除右除的区分</p>
-<p><img src="/.xyz//images%5Cmatlabprograming%5Cimage-20200907210557712.png" alt="image-20200907210557712"></p>
+<p><img src="/images/image-20200907210557712.png" alt="image-20200907210557712"></p>
 </li>
 <li>
 <p>数组运算（元素对应）和矩阵运算符的区分</p>
@@ -1999,7 +1998,7 @@ imag（）求虚部</li>
 <li>标量可以与任意维数组进行比较和逻辑操作，此时<strong>标量与每个元素进行</strong></li>
 <li>数组与数组进行比较和逻辑操作，<strong>比较的数组具有相同维数，相同位置元素之间进行</strong></li>
 </ul>
-<p><img src="/.xyz//images%5Cmatlabprograming%5Cimage-20200907211332036.png" alt="image-20200907211332036"></p>
+<p><img src="/.xyz//images%5Cimage-20200907211332036.png" alt="image-20200907211332036"></p>
 </li>
 </ul>
 <h3 id="3字符串的处理"><a class="markdownIt-Anchor" href="#3字符串的处理"></a> 3.字符串的处理</h3>
@@ -2200,7 +2199,7 @@ imag（）求虚部</li>
 </ul>
 <h4 id="3线性方程的解"><a class="markdownIt-Anchor" href="#3线性方程的解"></a> 3.线性方程的解</h4>
 <ul>
-<li><img src="/.xyz//images%5Cmatlabprograming%5Cimage-20200907215701421.png" alt="image-20200907215701421"></li>
+<li><img src="/.xyz//images%5Cimage-20200907215701421.png" alt="image-20200907215701421"></li>
 </ul>
 <h4 id="4一般代数方程的解"><a class="markdownIt-Anchor" href="#4一般代数方程的解"></a> 4.一般代数方程的解</h4>
 <ul>
@@ -3248,7 +3247,7 @@ X 、 Y 的值 计算函数在 X 1 处的值 。 其中 X 、Y是两个等长的
 <ul>
 <li>
 <p>内建色图</p>
-<p><img src="/.xyz//images%5Cmatlabprograming%5Cimage-20200909150154623.png" alt="image-20200909150154623"></p>
+<p><img src="/.xyz//images%5Cimage-20200909150154623.png" alt="image-20200909150154623"></p>
 </li>
 <li>
 <p>指定当前图形使用的色图</p>
