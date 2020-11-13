@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://205213.xyz/2020/11/13/movie_commenting_The_Upside/</loc>
+    
+    <lastmod>2020-11-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://205213.xyz/2020/09/18/inventor-technique/</loc>
     
     <lastmod>2020-09-18</lastmod>
@@ -60,7 +67,7 @@
 
   <url>
     <loc>http://205213.xyz/</loc>
-    <lastmod>2020-09-18</lastmod>
+    <lastmod>2020-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -68,49 +75,56 @@
   
   <url>
     <loc>http://205213.xyz/tags/sql/</loc>
-    <lastmod>2020-09-18</lastmod>
+    <lastmod>2020-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://205213.xyz/tags/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</loc>
-    <lastmod>2020-09-18</lastmod>
+    <lastmod>2020-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://205213.xyz/tags/%E6%95%B0%E5%AD%A6/</loc>
-    <lastmod>2020-09-18</lastmod>
+    <lastmod>2020-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://205213.xyz/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/</loc>
-    <lastmod>2020-09-18</lastmod>
+    <lastmod>2020-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://205213.xyz/tags/matlab/</loc>
-    <lastmod>2020-09-18</lastmod>
+    <lastmod>2020-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://205213.xyz/tags/inventor%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2020-09-18</lastmod>
+    <lastmod>2020-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://205213.xyz/tags/%E5%B0%8F%E5%AD%A6%E6%9C%9F%E8%AF%BE%E7%A8%8B/</loc>
-    <lastmod>2020-09-18</lastmod>
+    <lastmod>2020-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://205213.xyz/tags/THe-Upside/</loc>
+    <lastmod>2020-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -119,21 +133,28 @@
   
   <url>
     <loc>http://205213.xyz/categories/%E7%BD%91%E5%AE%89%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2020-09-18</lastmod>
+    <lastmod>2020-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://205213.xyz/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2020-09-18</lastmod>
+    <lastmod>2020-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://205213.xyz/categories/%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2020-09-18</lastmod>
+    <lastmod>2020-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://205213.xyz/categories/%E7%94%B5%E5%BD%B1%E7%99%BE%E5%91%B3/</loc>
+    <lastmod>2020-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
