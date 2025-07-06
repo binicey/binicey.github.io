@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://binicey.github.io/sitemap.xml
+Sitemap: http://davidxie.online/sitemap.xml
