@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: Submenus
 nav: flase
 nav_order: 8
 dropdown: false
