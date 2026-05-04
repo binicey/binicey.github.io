@@ -42,15 +42,21 @@
 
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
-          {% for page in site.pages %}
-            {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
+          {% for p in site.pages %}
+            {% if p.permalink == '/' %} {% assign about_title = p.title %} {% endif %}
+            {% if p.permalink == '/zh/' %} {% assign about_title_zh = p.title %} {% endif %}
           {% endfor %}
 
           <!-- About -->
-          <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/' | relative_url }}">
-              {{- about_title }}
-              {% if page.permalink == '/' %}
+          <li class="nav-item {% if page.permalink == '/' or page.permalink == '/zh/' %}active{% endif %}">
+            {% if page.lang == 'zh' %}
+              <a class="nav-link" href="{{ '/zh/' | relative_url }}">
+                {{- about_title_zh | default: "首页" }}
+            {% else %}
+              <a class="nav-link" href="{{ '/' | relative_url }}">
+                {{- about_title }}
+            {% endif %}
+              {% if page.permalink == '/' or page.permalink == '/zh/' %}
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>
@@ -117,6 +123,7 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">

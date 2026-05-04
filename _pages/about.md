@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+lang: en
 subtitle: <a href='#'>Tsinghua University</a>. Tsinghua Shenzhen International Graduate School.
 
 profile:
