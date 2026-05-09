@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://davidxie.online/sitemap.xml
+Sitemap: http://davidxie.site/sitemap.xml
